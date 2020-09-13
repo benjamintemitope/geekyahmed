@@ -1,12 +1,12 @@
-### Hi there 👋
+## Hi There 
+I'm Ahmed Bankole, a 16 year old software engineer and a techtrovert.
+<p align="middle">
+  <img width="600" src="https://github-profile-trophy.vercel.app/?username=r1&rank=SS,S,AAA,AA,A,B,C&row=1&column=5"/>
+</p>
 
-Hi!! I am **Bankole Ahmed**, an introvert and a software engineer from Nigeria.
+---
 
-You can reach me here: thegeekyahmed@gmail.com
-
-- 🔭 I’m currently working on building the next generation of REST APIs and Web Applications.
-- 🌱 I’m currently learning Vuejs to get my hands dirty.
-- 👯 I’m looking to collaborate on opensource projects..
-- 💬 Ask me about Javascript, Nodejs and My Introvert Lifestlyye
-- 😄 Pronouns: He/Him 
-- ⚡ Fun fact: I am 16 years old. 
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=r1&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r1&layout=compact" />
+</div>
